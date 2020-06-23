@@ -33,7 +33,7 @@ function App() {
 }
 
 function Home() {
-  return <h2>Home</h2>;
+  return <h2>Здесь будет какая-то патриотическая речь</h2>;
 }
 
 export default App;
